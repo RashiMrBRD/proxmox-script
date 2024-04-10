@@ -1,16 +1,17 @@
 #!/usr/bin/env bash
 
 # Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# From @Author: tteck (tteckster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# visit https://github.com/tteck/Proxmox/raw/main/LICENSE
 
 header_info() {
   clear
   cat <<"EOF"
-P V E   R a s h - P o s t
-█▀█ █▄█ █▀▄ █▀▀ █▀▀ █▀▀ █▀▀ █▀█
-█▀▀ █░█ █▄▀ █▄█ █▄█ █▄█ █▄█ █▄█
+  
+  P V E   R a s h - P o s t
+  █▀█ █▄█ █▀▄ █▀▀ █▀▀ █▀▀ █▀▀ █▀█
+  █▀▀ █░█ █▄▀ █▄█ █▄█ █▄█ █▄█ █▄█
 
 EOF
 }
